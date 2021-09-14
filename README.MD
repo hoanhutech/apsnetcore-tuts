@@ -22,3 +22,5 @@ Add your SSH private key to the ssh-agent. If you created your key with a differ
 
 $ ssh-add ~/.ssh/id_rsa
 Add the SSH key to your account on GitHub. For more information, see "Adding a new SSH key to your GitHub account."
+#install dotnet entity frameworkcore
+dotnet tool install --global dotnet-ef
